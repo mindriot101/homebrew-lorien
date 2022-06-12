@@ -4,7 +4,7 @@ cask "lorien" do
 
   url "https://github.com/mbrlabs/Lorien/releases/download/v#{version}/Lorien_v#{version}_macOS.dmg"
   name "Lorien"
-  desc "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot"
+  desc "Infinite canvas drawing/whiteboarding app - made with Godot"
   homepage "https://github.com/mbrlabs/Lorien"
 
   app "Lorien.app"
