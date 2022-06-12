@@ -1,6 +1,6 @@
 cask "lorien" do
-  version "0.4.0"
-  sha256 "444da36d35d3c4f767903dcac88333ca442c9a8d5bd6b19fbf9d7536f95ddb44"
+  version "0.5.0"
+  sha256 "4bbb21f48dc8910673d0c594b514edc02144de2dd17996363cbfdf2beec44cd7"
 
   url "https://github.com/mbrlabs/Lorien/releases/download/v#{version}/Lorien_v#{version}_macOS.dmg"
   name "Lorien"
